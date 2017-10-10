@@ -6,7 +6,6 @@ def draw_petal(some_turtle):
         some_turtle.forward(100)
         some_turtle.right(135)
         some_turtle.forward(100)
-    
 
 def art():
     window = turtle.Screen()
