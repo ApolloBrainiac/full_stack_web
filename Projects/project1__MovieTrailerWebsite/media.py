@@ -1,4 +1,5 @@
 import webbrowser
+#imports webbrowser library so program can access outside URLs
 
 class Movie():
     #declares the Movie class and necessary attributes for each film
