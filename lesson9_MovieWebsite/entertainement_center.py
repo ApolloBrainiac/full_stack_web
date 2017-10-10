@@ -9,5 +9,16 @@ avatar = media.Movie("Avatar",
                      "http://upload.wikimedia.org/wikipedia/id/b/b0/Avatar-Teaser-Poster.jpg",
                      "http://www.youtube.com/watch?v=-9ceBgWV8io")
 
-print(avatar.storyline)
-avatar.show_trailer()
+#print(avatar.storyline)
+#avatar.show_trailer()
+
+blade_runner = media.Movie("Blade Runner",
+                           "Man hunts replicants.",
+                           "https://en.wikipedia.org/wiki/Blade_Runner#/media/File:Blade_Runner_poster.jpg",
+                           "https://www.youtube.com/watch?v=eogpIG53Cis")
+
+#blade_runner.show_trailer()
+
+school_of_rock = media.Movie("School of Rock", "Using rock music to learn",
+                             "http://upload.wikimedia.org/wikipedia/en/1/11/School_of_Rock_Poster.jpg",
+                             "https://www.youtube.com/watch?v=3PsUJFEBC74")
