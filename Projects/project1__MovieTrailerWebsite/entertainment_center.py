@@ -21,6 +21,10 @@ tekkonkinkreet = media.Movie("Tekkonkinkreet",
 
 
 
+movies = [blade_runner, save_the_green_planet, city_of_lost, tekkonkinkreet]
+#saves the current list of films into on library so fresh_tomatoes can populate the trailer site
 
 
+fresh_tomatoes.open_movies_page(movies)
+#accesses fresh_tomatoes to produce trailer site
 
