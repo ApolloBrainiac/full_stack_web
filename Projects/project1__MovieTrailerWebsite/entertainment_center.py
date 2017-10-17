@@ -31,7 +31,11 @@ eternal_sunshine = media.Movie("Eternal Sunshin of the Spotless Mind",
 
 
 
-movies = [blade_runner, save_the_green_planet, city_of_lost, tekkonkinkreet, in_the_loop, eternal_sunshine]
+movies = [blade_runner, 
+          save_the_green_planet, 
+          city_of_lost, tekkonkinkreet, 
+          in_the_loop, 
+          eternal_sunshine]
 #saves the current list of films into a library so fresh_tomatoes can populate the trailer site
 
 
