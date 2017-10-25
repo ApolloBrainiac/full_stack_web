@@ -1,4 +1,6 @@
 /*housekeeping*/
+/*makes sure the entire page uses border-box and that
+no element can be larger than the viewport*/
 * {
 	box-sizing: border-box;
 	max-width: 100%;
@@ -27,14 +29,6 @@ hr {
 	height: 1.5px;
 	border: none;
 }
-
-
-/*Center Container*/
-
-/*#center {
-	max-width: 100%;
-}*/
-
 
 /*Featured Work*/
 
