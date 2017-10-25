@@ -1,7 +1,12 @@
+/*housekeeping*/
 * {
 	box-sizing: border-box;
 	max-width: 100%;
 	max-height: 100%;
+}
+
+img {
+	max-width: 100%;
 }
 
 /*header*/
@@ -11,49 +16,37 @@
 	text-transform: uppercase;
 }
 
-.icon{
+.icon {
 	width: 4em;
 	height: 4em;
 }
 
-hr{
+hr {
 	color: #7d97ad;
 	background-color: #7d97ad;
 	height: 1.5px;
 	border: none;
 }
 
-img {
-	max-width: 100%;
-
-}
 
 /*Center Container*/
 
-#center{
-	max-width: 100%;
-}
-
-/*#center, img{
+/*#center {
 	max-width: 100%;
 }*/
 
+
 /*Featured Work*/
 
-.work{
+.work {
 	color: #7d97ad;
 	text-transform: capitalize;
 }
 
-article img{
-	margin-left: 15%;
-	margin-right: 15%;
-}
-
-.project{
+.project {
 	text-transform: uppercase;	
 }
 
-article h3, article p{
+article h3, article p {
 	text-align: center;
 }

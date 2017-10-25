@@ -6,17 +6,17 @@
 
 /*header*/
 
-#header, h1, h4{
+#header, h1, h4 {
 	text-align: right;
 	text-transform: uppercase;
 }
 
-.icon{
+.icon {
 	width: 4em;
 	height: 4em;
 }
 
-hr{
+hr {
 	color: #7d97ad;
 	background-color: #7d97ad;
 	height: 1.5px;
@@ -30,32 +30,32 @@ img {
 
 /*Center Container*/
 
-#center{
+#center {
 	max-width: 100%;
 }
 
 
 /*Featured Work*/
 
-.work{
+.work {
 	color: #7d97ad;
 	text-transform: capitalize;
 }
 
-article{
+article {
 	width: 33%;
 	height: 33%;
 }
 
-article img{
-	margin-left: 15%;
-	margin-right: 15%;
+article img {
+/*	margin-left: 15%;
+	margin-right: 15%;*/
 }
 
-.project{
+.project {
 	text-transform: uppercase;	
 }
 
-article h3, article p{
+article h3, article p {
 	text-align: center;
 }
